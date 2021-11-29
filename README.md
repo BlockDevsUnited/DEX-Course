@@ -34,8 +34,6 @@ If you want to join, just sign up here.
 * Open Zeppelin
 * Uniswap-V2 contracts
 * Hardhat
-* Snapshot
-* Aragon
 
 ### Rules
 
@@ -51,43 +49,30 @@ If you want to join, just sign up here.
 ## Course Content
 
 Here is the course outline, week by week.
-- clone front end
-- deploy smart contracts
-- integrate contracts
+
 ### Week 1 - Fork Uniswap
 
 #### Tutorials
 
 
 #### Requirements
-* Demonstrate ability to deploy a basic DAO on snapshot
-* Manage DAO settings
-* People can work in teams due to high gas cost.
-* This week's requirement can be completed in teams
+* Learn how to use uniswap
+* Fork UniswapV2
+* Understand UniswapV2 smart contracts
+* Modify front end. Customize colours and logos. 
+* publish it to the web. 
+* connect to existing uniswap contracts on testnet.
 
 ### Week 2 - Integrate your own contracts into Uniswap Fork
-The governance token is issued and transfered to members who will be allowed to participate in the DAO governance, i.e. it gives voting power.
-
-We encourage course participants to work in teams and with other DAO members to complete the requirements.
 
 #### Tutorials
 
-1. Start with issueing a governance token
-  - [Issue an ERC-20 token with Remix and Metamask](https://github.com/BlockDevsUnited/TokenTutorial)
 
-2. Mint and trasfer tokens to members who would participate in the governance. We encourage course participants to transfer tokens to each other and vote on each other proposals.
-
-3. Add the token address and symbol to a strategy in your DAO to use it as a governance token
-  - For exampple, it can be added to The erc20-balance-of strategy setting following [Snapshot strategy documentation](https://docs.snapshot.org/strategies/what-is-a-strategy)
-
-4. Create a proposal and let the token owners know that they can vote following [Snapshot Proposal documentation](https://docs.snapshot.org/proposals)
-
-NOTE: "Only the community members who hold relevant amounts of tokens at the time of the creation of the Snapshot block number would be able to vote on the proposal." and review [Add a Snapshot block number](https://docs.snapshot.org/proposals/create)
-section for details.
 
 #### Requirements
-* Post the URL to your governance token on Discord
-* Post the URL to one proposal that uses the governance token
+- Customize uniswapv2 smart contracts
+- deploy your own contracts
+- Get your DEX working with 
 
 ### Week 3 - Collaborative DEX
 
