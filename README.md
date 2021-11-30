@@ -5,7 +5,7 @@ Welcome to the Block Devs United DEX course! Join our [Discord Channel](https://
 
 In the discord channel you will find help and support for passing the requirements each week!
 
-If you want to join, just sign up here. 
+If you want to join, we will post sign up link here during the first week of the course. 
 
 ## Course Information
 
@@ -21,33 +21,29 @@ If you want to join, just sign up here.
 * Certificates are non-transferable NFT’s
 
 ### Schedule
-* November 1 - DEX Course Kickoff
-* November 8 - Week 1 Assignment due, Week 2 Meetup
-* November 15 - Week 2 Assignment due, Week 3 Meetup, start of Collaborative DAO
-* November 22 - No assignments due, Week 4 Meetup, Collaborative DAO launch
-* November 29 - Individual Projects due, Closing meetup, Individual project showcase
-
+* December 6 - DEX Course Kickoff
+* December 13 - Week 1 Assignment due, Week 2 Meetup
+* December 20 - Week 2 Assignment due, Week 3 Meetup, start of Collaborative DEX
+* December 27 - No assignments due, Week 4 Meetup, Collaborative DEX launch
+* January 10 - Individual Projects due, Closing meetup, Individual project showcase
 
 ### Tools
-
 * Solidity
 * Open Zeppelin
 * Uniswap-V2 contracts
 * Hardhat
 
 ### Rules
-
 * Anyone can join
 * Everyone respect one another
 
 #### Getting the Certificate
 * Must complete course work to progress to next week
-* Must complete all 4 weeks to get DAO certificate.
+* Must complete all 4 weeks to get DEX certificate.
 * If you fail to progress you can join the next course (in 2-3 months)
 * Nobody is prevented from learning, joining events etc.
 
 ## Course Content
-
 Here is the course outline, week by week.
 
 ### Week 1 - Fork Uniswap
@@ -60,13 +56,12 @@ Here is the course outline, week by week.
 * Fork UniswapV2
 * Understand UniswapV2 smart contracts
 * Modify front end. Customize colours and logos. 
-* publish it to the web. 
-* connect to existing uniswap contracts on testnet.
+* Publish it to the web. 
+* Connect to existing uniswap contracts on testnet.
 
 ### Week 2 - Integrate your own contracts into Uniswap Fork
 
 #### Tutorials
-
 
 
 #### Requirements
@@ -84,8 +79,7 @@ Here is the course outline, week by week.
 During week 4 you must deploy a real live DEX
 
 #### Requirements
-* Demonstrate your live dex
+* Demonstrate your live DEX
 * People can trade on your DEX
 * People can provide liquidity
 * Hosted on a website
-
