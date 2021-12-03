@@ -21,9 +21,9 @@ If you want to join, we will post sign up link here during the first week of the
 * Certificates are non-transferable NFT’s
 
 ### Schedule
-* December 6 - DEX Course Kickoff
-* December 13 - Week 1 Assignment due, Week 2 Meetup
-* December 20 - Week 2 Assignment due, Week 3 Meetup, start of Collaborative DEX
+* December 9 - DEX Course Kickoff
+* December 16 - Week 1 Assignment due, Week 2 Meetup
+* December 23 - Week 2 Assignment due, Week 3 Meetup, start of Collaborative DEX
 * December 27 - No assignments due, Week 4 Meetup, Collaborative DEX launch
 * January 10 - Individual Projects due, Closing meetup, Individual project showcase
 
