@@ -1,11 +1,11 @@
 # Notes on project set up for development
 
 ## 
-We are following [OpenZeppelin Lear](https://docs.openzeppelin.com/learn/) for the project set up.
+We are following [OpenZeppelin Learn](https://docs.openzeppelin.com/learn/) for the project set up.
 
 ## Clone course git repo
 ```
-git clone https://github.com/BDU-NFT-Course/DEX-Course.git
+git clone https://github.com/BlockDevsUnited/DEX-Course.git
 
 cd DEX-Course
 ```
@@ -41,7 +41,7 @@ Read and follow the detailed instructions in [How to build a DEX like Uniswap](h
 **Example commands.** 
 Make sure that you modify with your arguments.
 
-1. Compile, deploy and verify the Factory contract. Start with modifying ```deploy-UniswapV2Factory.js``` to give the correct constructor arguents.Also, give the correct constructor arguments on the verify commend below.
+1. Compile, deploy and verify the Factory contract. Start with modifying ```deploy-UniswapV2Factory.js``` to give the correct constructor arguents. Also, give the correct constructor arguments on the verify command below.
 
 ```
  npx hardhat run --network rinkeby scripts/deploy-UniswapV2Factory.js
