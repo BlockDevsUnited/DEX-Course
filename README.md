@@ -5,7 +5,7 @@ Welcome to the Block Devs United DEX course! Join our [Discord Channel](https://
 
 In the discord channel you will find help and support for passing the requirements each week!
 
-If you want to join, we will post sign up link here during the first week of the course. 
+If you want to join add your name to the [sign up sheet](https://docs.google.com/spreadsheets/d/1eId4kSdyB9etus7olKXw-veHGL11G8kN5flNoBjn78o/edit?usp=sharing). 
 
 ## Course Information
 
