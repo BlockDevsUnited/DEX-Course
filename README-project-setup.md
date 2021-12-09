@@ -59,5 +59,5 @@ npx hardhat verify --network rinkeby  0x319B2Dd7091ad4bABed23A41F614a1bE79380005
 ## Set up th Front End
 ```
 cd ..
-git clone https://github.com/Uniswap/uniswap-interface.git
+git clone https://github.com/swappityswap-dev/SwappitySwap-Interface
 ```
