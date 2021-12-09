@@ -1,0 +1,27 @@
+{
+  "name": "dex-course",
+  "version": "1.0.0",
+  "description": "Month Long Course on Launching a DEX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BDU-NFT-Course/DEX-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BDU-NFT-Course/DEX-Course/issues"
+  },
+  "homepage": "https://github.com/BDU-NFT-Course/DEX-Course#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "@nomiclabs/hardhat-etherscan": "^2.1.8",
+    "@openzeppelin/contracts": "^4.4.0",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.7.0"
+  }
+}

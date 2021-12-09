@@ -1,0 +1,11 @@
+node_modules
+.secrets.json
+.env
+coverage
+coverage.json
+typechain
+.openzeppelin
+
+#Hardhat files
+cache
+artifacts
