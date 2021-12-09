@@ -29,6 +29,8 @@ If you want to join add your name to the [sign up sheet](https://docs.google.com
 * December 27 - No assignments due, Week 4 Meetup, Collaborative DEX launch
 * January 10 - Individual Projects due, Closing meetup, Individual project showcase
 
+All meets are @ 2pm EST in [Discord Channel](https://discord.gg/TbxvYAnW)
+
 ### Tools
 * Solidity
 * Open Zeppelin
