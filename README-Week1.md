@@ -5,6 +5,8 @@
 
 ## Fork UniswapV2
 - [How to Build DEX like Uniswap](https://blockchain.news/wiki/how-to-build-an-uniswap-exchange)
+- [SwappitySwap Smart Contracts](https://github.com/swappityswap-dev/swappityswap-sdk)
+- [SwappitySwap Interface](https://github.com/swappityswap-dev/SwappitySwap-Interface)
 
 ## Understand UniswapV2 smart contracts
 ## Modify front end. Customize colours and logos.
