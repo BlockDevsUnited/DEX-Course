@@ -22,7 +22,9 @@ If you want to join add your name to the [sign up sheet](https://docs.google.com
 
 ### Schedule
 * December 9 - DEX Course Kickoff
+  - Dec 11 - Group study for Week 1 Assignment
 * December 16 - Week 1 Assignment due, Week 2 Meetup
+  - Dec 18 - Group study for Week 2 Assignment
 * December 23 - Week 2 Assignment due, Week 3 Meetup, start of Collaborative DEX
 * December 27 - No assignments due, Week 4 Meetup, Collaborative DEX launch
 * January 10 - Individual Projects due, Closing meetup, Individual project showcase
