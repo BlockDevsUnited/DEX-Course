@@ -61,7 +61,7 @@ Here is the course outline, week by week.
 * Understand UniswapV2 smart contracts
 * Modify front end. Customize colours and logos. 
 * Publish it to the web. 
-* Connect to existing uniswap contracts on testnet.
+* Connect to existing uniswap contracts.
 
 ### Week 2 - Integrate your own contracts into Uniswap Fork
 
