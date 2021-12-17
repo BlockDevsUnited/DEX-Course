@@ -1,6 +1,6 @@
 {
-    "name": "DEX Course Token List",
-    "logoURI": "https://cdn-icons-png.flaticon.com/512/566/566295.png",
+    "name": "DEX Token List",
+    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hex_logo.png",
     "keywords": [
     "audited",
     "verified",
@@ -15,8 +15,8 @@
     "name": "Compound Finance",
     "description": "Tokens that earn interest on compound.finance"
     }
-},
-    "timestamp": "2021-12-16T00:00:00+00:00",
+    },
+    "timestamp": "2021-12-12T00:00:00+00:00",
     "tokens": [
     {
     "chainId": 1,
@@ -41,23 +41,23 @@
     ]
     },
     {
-    "chainId": 100,
-    "address": "0x248E081e3C9e738D7C1ded5d471069dcf4Fd9B15",
-    "symbol": "DCASH",
-    "name": "Dev Cash",
+    "chainId": 4,
+    "address": "0xEAe06c5155dC81B085D05B6b7E6b84964cC57BCa",
+    "symbol": "HEXC",
+    "name": "HEXCoro Token",
     "decimals": 8,
-    "logoURI": "https://c.gitcoin.co/grants/abb76643ddbf0d289f036114c7c2c499/devcash_logo.jpg",
+    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hexc_logo.png",
     "tags": [
     "stablecoin"
     ]
     },
     {
-    "chainId": 100,
-    "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
-    "symbol": "LINK",
-    "name": "Chainlink on xDai",
+    "chainId": 4,
+    "address": "0xE01C1fCc3956717C5574D2385384AA59e4C0c641",
+    "symbol": "HEXD",
+    "name": "HEXDelos Token",
     "decimals": 8,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hexd_logo.png",
     "tags": [
     "stablecoin"
     ]
@@ -68,4 +68,4 @@
     "minor": 0,
     "patch": 0
     }
-    }
+}
