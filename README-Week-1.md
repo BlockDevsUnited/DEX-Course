@@ -10,4 +10,4 @@ DEX Course - Week 1
  
 * Use the published interface with the existing uniswap contracts.
   - The interface is already connected to existing contracts. 
-  - Add liquidity for two tokens. Perform a swap. You may find it easier to import the [sample tokenlist](dex-course.tokenlist.json).
+  - Add liquidity for two tokens. Perform a swap. You may find it easier to import the [sample tokenlist](dex.tokenlist.json).
