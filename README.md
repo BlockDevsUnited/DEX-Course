@@ -52,10 +52,9 @@ Here is the course outline, week by week.
 
 ### Week 1 - Fork Uniswap
 
-#### Tutorials
+#### Tutorials 
+Tutorials can be found in [README-Week-1.md](README-Week-1.md)
 
-
-#### Requirements
 * Learn how to use uniswap
 * Fork UniswapV2
 * Understand UniswapV2 smart contracts
@@ -63,15 +62,22 @@ Here is the course outline, week by week.
 * Publish it to the web. 
 * Connect to existing uniswap contracts.
 
+#### Requirements
+- perform a trade (swap) and add liquidity on honeyswap
+- clone and run the interface for https://github.com/UdotCASH/u-exchange
+
 ### Week 2 - Integrate your own contracts into Uniswap Fork
 
 #### Tutorials
 
+* Customize uniswapv2 smart contracts
+* deploy your own contracts
+* Get your DEX working with your own contracts 
 
 #### Requirements
-- Customize uniswapv2 smart contracts
-- deploy your own contracts
-- Get your DEX working with 
+- deploy your own Factory and Router smart contracts
+- update sdk and interface with smart contracts
+- test liquidity adding and swapping 
 
 ### Week 3 - Collaborative DEX
 

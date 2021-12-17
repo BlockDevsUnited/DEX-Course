@@ -1,0 +1,74 @@
+{
+    "name": "DEX Course Token List",
+    "logoURI": "https://cdn-icons-png.flaticon.com/512/566/566295.png",
+    "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+    ],
+    "tags": {
+    "stablecoin": {
+    "name": "Stablecoin",
+    "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "compound": {
+    "name": "Compound Finance",
+    "description": "Tokens that earn interest on compound.finance"
+    },
+    "token": {
+    "name": "Token",
+    "description": "Token list for DEX Course"
+    },
+    "timestamp": "2021-12-16T00:00:00+00:00",
+    "tokens": [
+    {
+    "chainId": 1,
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+    "tags": [
+    "stablecoin"
+    ]
+    },
+    {
+    "chainId": 1,
+    "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+    "symbol": "cUSDC",
+    "name": "Compound USD Coin",
+    "decimals": 8,
+    "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+    "tags": [
+    "compound"
+    ]
+    },
+    {
+    "chainId": 100,
+    "address": "0x248E081e3C9e738D7C1ded5d471069dcf4Fd9B15",
+    "symbol": "DCASH",
+    "name": "Dev Cash",
+    "decimals": 18,
+    "logoURI": "https://c.gitcoin.co/grants/abb76643ddbf0d289f036114c7c2c499/devcash_logo.jpg",
+    "tags": [
+    "token"
+    ]
+    },
+    {
+    "chainId": 100,
+    "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
+    "symbol": "LINK",
+    "name": "Chainlink on xDai",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+    "tags": [
+    "token"
+    ]
+    }
+    ],
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+    }
+    }
