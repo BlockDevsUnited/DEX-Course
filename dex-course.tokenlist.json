@@ -15,10 +15,6 @@
     "name": "Compound Finance",
     "description": "Tokens that earn interest on compound.finance"
     },
-    "token": {
-    "name": "Token",
-    "description": "Token list for DEX Course"
-    },
     "timestamp": "2021-12-16T00:00:00+00:00",
     "tokens": [
     {
@@ -51,7 +47,7 @@
     "decimals": 18,
     "logoURI": "https://c.gitcoin.co/grants/abb76643ddbf0d289f036114c7c2c499/devcash_logo.jpg",
     "tags": [
-    "token"
+    "stablecoin"
     ]
     },
     {
@@ -62,7 +58,7 @@
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
     "tags": [
-    "token"
+    "stablecoin"
     ]
     }
     ],
@@ -71,4 +67,5 @@
     "minor": 0,
     "patch": 0
     }
-    }}
+    }
+}
