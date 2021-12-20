@@ -1,4 +1,6 @@
-DEX Course - Week 1
+# DEX Course - Week 1
+
+[Week 1 recording](https://drive.google.com/drive/folders/1-R8xd1Q7K2JD0TcfVp4BzEk-e__PiCKW) is posted now.
 
 * Learn how to use uniswap
   - [What is Uniswap](https://www.youtube.com/watch?v=dIneNZTnFMw)
