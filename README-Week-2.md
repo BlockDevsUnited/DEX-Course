@@ -1,5 +1,7 @@
 # Integrate your own contracts into Uniswap Fork
 
+[Week 2 recording](https://drive.google.com/drive/folders/1-R8xd1Q7K2JD0TcfVp4BzEk-e__PiCKW) is posted now.
+
 ## deploy your own Factory and Router smart contracts
 You should already have cloned the course repo from Week 1. If not, start wil cloning it:
 ```
