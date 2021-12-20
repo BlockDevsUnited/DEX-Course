@@ -60,7 +60,8 @@ Here is the course outline, week by week.
 * Connect to existing uniswap contracts.
 
 #### Tutorials 
-Tutorials can be found in [README-Week-1.md](README-Week-1.md)
+- Tutorials can be found in [README-Week-1.md](README-Week-1.md) 
+- Review [Week 1 recording](https://drive.google.com/drive/folders/1-R8xd1Q7K2JD0TcfVp4BzEk-e__PiCKW).
 
 #### Requirements
 - perform a trade (swap) and add liquidity on honeyswap
@@ -73,7 +74,8 @@ Tutorials can be found in [README-Week-1.md](README-Week-1.md)
 * Get your DEX working with your own contracts 
 
 #### Tutorials
-Tutorials can be found in [README-Week-2.md](README-Week-2.md)
+-Tutorials can be found in [README-Week-2.md](README-Week-2.md)
+Review [Week 2 recording](https://drive.google.com/drive/folders/1-R8xd1Q7K2JD0TcfVp4BzEk-e__PiCKW)
 
 #### Requirements
 - deploy your own Factory and Router smart contracts
