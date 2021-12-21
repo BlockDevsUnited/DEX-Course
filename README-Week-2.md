@@ -3,7 +3,7 @@
 [Week 2 recording](https://drive.google.com/drive/folders/1-R8xd1Q7K2JD0TcfVp4BzEk-e__PiCKW) is posted now.
 
 ## deploy your own Factory and Router smart contracts
-You should already have cloned the course repo from Week 1. If not, start wil cloning it:
+You should already have cloned the course repo from Week 1. If not, clone it: 
 ```
 git clone https://github.com/BlockDevsUnited/DEX-Course-u-exchange
 cd DEX-Course-u-exchange
@@ -33,7 +33,7 @@ In ```scripts/contracts_info.json```
 
 ### Calculate INIT_CODE_PAIR_HASH
 Go back to Remix and switch to the compile Tab.
--  under the blue button "Compile UExchangeFactory_flat.sol" choose CONTRACT: "UExchangePair(UExchangeFactory_flat.sol)"
+- under the blue button "Compile UExchangeFactory_flat.sol" choose CONTRACT: "UExchangePair(UExchangeFactory_flat.sol)"
 - Then click on "Bytecode" to copy it
 - Open ```scripts/pair_bycode.json``` file and complete replace its contents with the bycode that you copied in the previous step
 - Open a terminal and run ```node scripts/get_pair_hash.js```
