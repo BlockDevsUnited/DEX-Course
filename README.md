@@ -85,17 +85,7 @@ Here is the course outline, week by week.
 ### Week 3 - Collaborative DEX
 
 #### Requirements
-* Succeed as a group in creating a collaborative DEX
-* Build and release Swappityswap (https:/swappityswap.org)
-* github (https://github.com/swappityswap)
-* Write Swappityswap Contracts
-* Deploy on multichain - xDai, bsc, one other
-* Integrate with interface and sdk
-* Test functionality 
-* Host on app.swappityswap.org
-* Complete documentation
-* Bonus - display analytics
-* Reward contributors with SWAPPITY
+[TODO-swappityswap.md](TODO-swappityswap.md)
 
 ### Week 4 - Deploy your live DEX
 
