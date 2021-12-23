@@ -25,9 +25,10 @@ If you want to join add your name to the [sign up sheet](https://docs.google.com
   - Dec 11 - Group study for Week 1 Assignment
 * December 16 - Week 1 Assignment due, Week 2 Meetup
   - Dec 18 - Group study for Week 2 Assignment
-* December 23 - Week 2 Assignment due, Week 3 Meetup, start of Collaborative DEX
-* December 27 - No assignments due, Week 4 Meetup, Collaborative DEX launch
-* January 10 - Individual Projects due, Closing meetup, Individual project showcase
+* December 23 -  Week 3 Meetup, start of Collaborative DEX
+* December 30 - Week 2 Assignment due (extended to December 30)
+* January 6 - No assignments due, Week 4 Meetup, Collaborative DEX launch
+* January 13 - Individual Projects due, Closing meetup, Individual project showcase
 
 All meets are @ 2pm EST in [Discord Channel](https://discord.gg/TbxvYAnW)
 
