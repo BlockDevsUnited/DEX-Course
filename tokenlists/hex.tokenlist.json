@@ -1,6 +1,6 @@
 {
     "name": "HEX Token List",
-    "logoURI": "https://cdn-icons-png.flaticon.com/512/566/566295.png",
+    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hex_logo.png",
     "keywords": [
     "audited",
     "verified",
@@ -9,7 +9,7 @@
     "tags": {
     "stablecoin": {
     "name": "Stablecoin",
-    "description": "Violeta's sample tokens used for testing"
+    "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
     "compound": {
     "name": "Compound Finance",
@@ -18,6 +18,28 @@
     },
     "timestamp": "2021-12-12T00:00:00+00:00",
     "tokens": [
+    {
+    "chainId": 1,
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+    "tags": [
+    "stablecoin"
+    ]
+    },
+    {
+    "chainId": 1,
+    "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+    "symbol": "cUSDC",
+    "name": "Compound USD Coin",
+    "decimals": 8,
+    "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+    "tags": [
+    "compound"
+    ]
+    },
     {
     "chainId": 4,
     "address": "0xEAe06c5155dC81B085D05B6b7E6b84964cC57BCa",
@@ -46,4 +68,4 @@
     "minor": 0,
     "patch": 0
     }
-}
+    }
