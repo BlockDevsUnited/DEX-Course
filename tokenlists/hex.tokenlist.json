@@ -1,0 +1,49 @@
+{
+    "name": "HEX Token List",
+    "logoURI": "https://cdn-icons-png.flaticon.com/512/566/566295.png",
+    "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+    ],
+    "tags": {
+    "stablecoin": {
+    "name": "Stablecoin",
+    "description": "Violeta's sample tokens used for testing"
+    },
+    "compound": {
+    "name": "Compound Finance",
+    "description": "Tokens that earn interest on compound.finance"
+    }
+    },
+    "timestamp": "2021-12-12T00:00:00+00:00",
+    "tokens": [
+    {
+    "chainId": 4,
+    "address": "0xEAe06c5155dC81B085D05B6b7E6b84964cC57BCa",
+    "symbol": "HEXC",
+    "name": "HEXCoro Token",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hexc_logo.png",
+    "tags": [
+    "stablecoin"
+    ]
+    },
+    {
+    "chainId": 4,
+    "address": "0xE01C1fCc3956717C5574D2385384AA59e4C0c641",
+    "symbol": "HEXD",
+    "name": "HEXDelos Token",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hexd_logo.png",
+    "tags": [
+    "stablecoin"
+    ]
+    }
+    ],
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+    }
+}
