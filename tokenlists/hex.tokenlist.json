@@ -19,12 +19,12 @@
     "timestamp": "2021-12-12T00:00:00+00:00",
     "tokens": [
     {
-    "chainId": 1,
-    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "decimals": 6,
-    "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+    "chainId": 4,
+    "address": "0xEAe06c5155dC81B085D05B6b7E6b84964cC57BCa",
+    "symbol": "HEXC",
+    "name": "HEXCoro Token",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hexc_logo.png",
     "tags": [
     "stablecoin"
     ]
