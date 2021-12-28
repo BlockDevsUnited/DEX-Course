@@ -30,17 +30,6 @@
     ]
     },
     {
-    "chainId": 1,
-    "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-    "symbol": "cUSDC",
-    "name": "Compound USD Coin",
-    "decimals": 8,
-    "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-    "tags": [
-    "compound"
-    ]
-    },
-    {
     "chainId": 4,
     "address": "0xEAe06c5155dC81B085D05B6b7E6b84964cC57BCa",
     "symbol": "HEXC",
