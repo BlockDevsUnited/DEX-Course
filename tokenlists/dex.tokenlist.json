@@ -1,5 +1,5 @@
 {
-    "name": "HEX Token List",
+    "name": "DEX Course Token List",
     "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hex_logo.png",
     "keywords": [
     "audited",
@@ -38,28 +38,6 @@
     "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
     "tags": [
     "compound"
-    ]
-    },
-    {
-    "chainId": 4,
-    "address": "0xEAe06c5155dC81B085D05B6b7E6b84964cC57BCa",
-    "symbol": "HEXC",
-    "name": "HEXCoro Token",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hexc_logo.png",
-    "tags": [
-    "stablecoin"
-    ]
-    },
-    {
-    "chainId": 4,
-    "address": "0xE01C1fCc3956717C5574D2385384AA59e4C0c641",
-    "symbol": "HEXD",
-    "name": "HEXDelos Token",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hexd_logo.png",
-    "tags": [
-    "stablecoin"
     ]
     }
     ],
