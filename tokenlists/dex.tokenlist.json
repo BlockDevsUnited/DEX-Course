@@ -1,6 +1,6 @@
 {
     "name": "DEX Course",
-    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hex_logo.png",
+    "logoURI": "https://bdu.dev/static/media/logo.17e2d280.png",
     "keywords": [
     "audited",
     "verified",
@@ -16,8 +16,8 @@
     "description": "Tokens that earn interest on compound.finance"
     },
     "xDai": {
-        "name": "xDai Chain",
-        "description": "Tokens on the xDai Chain"
+    "name": "xDai Chain",
+    "description": "Tokens on the xDai Chain"
     }
     },
     "timestamp": "2021-12-12T00:00:00+00:00",
@@ -50,7 +50,7 @@
     "symbol": "BRIGHT",
     "name": "BRIGHT from Etherium",
     "decimals": 18,
-    "logoURI": "",
+    "logoURI": "https://etherscan.io/token/images/brightid_32.png",
     "tags": [
     "xDai"
     ]
