@@ -2,7 +2,12 @@
 
 ## Clone the repo
 ```
-git clone git@github.com/BlockDevsUnited/DEX-Course-u-exchange.git
+git clone git@github.com:BlockDevsUnited/DEX-Course-u-exchange.git #if SSH
+or
+git clone https://github.com/BlockDevsUnited/DEX-Course-u-exchange.git #if https
+```
+then go to the folder that you just cloned
+```
 cd DEX-Course-u-exchange
 ```
 
