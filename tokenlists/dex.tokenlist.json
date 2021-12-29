@@ -50,17 +50,6 @@
     "tags": [
     "stablecoin"
     ]
-    },
-    {
-    "chainId": 4,
-    "address": "0xE01C1fCc3956717C5574D2385384AA59e4C0c641",
-    "symbol": "HEXD",
-    "name": "HEXDelos Token",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/BDU-NFT-Course/team-dao/main/assets/hexd_logo.png",
-    "tags": [
-    "stablecoin"
-    ]
     }
     ],
     "version": {
