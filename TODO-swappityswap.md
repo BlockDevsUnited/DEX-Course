@@ -14,7 +14,7 @@ Build and release Swappityswap
 
 ## TODO List
 - [ ] Customize and brand interface (antron3000, dilipomi, jaygoyanar, AleRapchan, steamerd)
-- [ ] Write Swappityswap Contracts (vgotcheva, antron3000, sijo0703, kennethisaac, kenzysc, steamerd)
+- [ ] Write Swappityswap Contracts (vgotcheva, antron3000, sijo0703, kenzysc, steamerd)
   - [ ] Fork [swappityswap-core](https://github.com/SwappitySwap/swappityswap-core) and add the contracts team
   - [ ] Fork [swappityswap-sdk](https://github.com/SwappitySwap/swappityswap-sdk) and add the contracts team
   - [ ] In Factory contract, change names from u-exchange to SwappitySwap - all names including LP token name 
