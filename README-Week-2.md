@@ -101,8 +101,11 @@ find . -type f -print -exec sed -i s,'\@udotcash\/u\-exchange\-sdk','\@violeta\.
 ```
 
 In ```src/constants/v1/index.ts```
-- update router address
+- update factory address
 - update u-exchange package
+
+In ```src/constants/index.ts```
+- update router address
 
 ### Test the interface locally
 In the terminal start the interface
