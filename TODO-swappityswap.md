@@ -15,7 +15,7 @@ Build and release Swappityswap
 ## TODO List
 1. - [ ] Customize and brand interface (antron3000, dilipomi, jaygoyanar, AleRapchan, steamerd)
 1. - [ ] Write Swappityswap Contracts (vgotcheva, antron3000, sijo0703, kenzysc, steamerd)
-  1. - [x] Fork [DEX-Course-u-exchange](https://github.com/BlockDevsUnited/DEX-Course-u-exchange) into [DEX-Course-SwappitySwap-core](https://github.com/BlockDevsUnited/DEX-Course-SwappitySwap-core) and add the contracts team. We changed the initial plan and did not to fork [swappityswap-core](https://github.com/SwappitySwap/swappityswap-core). 
+  1.1. - [x] Fork [DEX-Course-u-exchange](https://github.com/BlockDevsUnited/DEX-Course-u-exchange) into [DEX-Course-SwappitySwap-core](https://github.com/BlockDevsUnited/DEX-Course-SwappitySwap-core) and add the contracts team. We changed the initial plan and did not to fork [swappityswap-core](https://github.com/SwappitySwap/swappityswap-core). 
   - [ ] Fork [u-exchange-sdk](https://github.com/UdotCASH/u-exchange-sdk) into [DEX-Course-SwappitySwap-sdk](https://github.com/BlockDevsUnited/DEX-Course-SwappitySwap-core) and add the contracts team. We changed the initial plan and did not fork [swappityswap-sdk](https://github.com/SwappitySwap/swappityswap-sdk).
   - [ ] In Factory contract, change names from u-exchange to SwappitySwap - all names including LP token name 
   - [ ] In Router contract, change names from u-exchange to SwappitySwap - all names including LP token name
