@@ -16,11 +16,11 @@ Build and release Swappityswap
 1. - [ ] Customize and brand interface (antron3000, dilipomi, jaygoyanar, AleRapchan, steamerd)
 1. - [ ] Write Swappityswap Contracts (vgotcheva, antron3000, sijo0703, kenzysc, steamerd)
    1. - [x] Import [DEX-Course-u-exchange](https://github.com/BlockDevsUnited/DEX-Course-u-exchange) into [DEX-Course-SwappitySwap-core](https://github.com/BlockDevsUnited/DEX-Course-SwappitySwap-core) and add the contracts team. We changed the initial plan and did not to fork [swappityswap-core](https://github.com/SwappitySwap/swappityswap-core). 
-   1. - [ ] Import [u-exchange-sdk](https://github.com/UdotCASH/u-exchange-sdk) into [DEX-Course-SwappitySwap-sdk](https://github.com/BlockDevsUnited/DEX-Course-SwappitySwap-core) and add the contracts team. We changed the initial plan and did not fork [swappityswap-sdk](https://github.com/SwappitySwap/swappityswap-sdk).
-   1. - [ ] In Factory contract, change names from u-exchange to SwappitySwap - all names including LP token name 
-   1. - [ ] In Router contract, change names from u-exchange to SwappitySwap - all names including LP token name
-   1. - [ ] Deploy Factory and Router contracts to Rinkeby for testing
-   1. - [ ] Update SDK and publish 
+   1. - [X] Import [u-exchange-sdk](https://github.com/UdotCASH/u-exchange-sdk) into [DEX-Course-SwappitySwap-sdk](https://github.com/BlockDevsUnited/DEX-Course-SwappitySwap-core) and add the contracts team. We changed the initial plan and did not fork [swappityswap-sdk](https://github.com/SwappitySwap/swappityswap-sdk).
+   1. - [ ] In Factory contract, change names from u-exchange to SwappitySwap - all names including LP token name. 
+   1. - [ ] In Router contract, change names from u-exchange to SwappitySwap - all names including LP token name. 
+   1. - [ ] Deploy Factory and Router contracts to Rinkeby for testing. Follow [README-Week-2.md](README-Week-2.md) to update and deploy both contracts.
+   1. - [ ] Update SDK and publish. 
 1. - [ ] Deploy on multichain (antron3000)
    1. - [ ] xDai
    1. - [ ] bsc
