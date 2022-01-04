@@ -30,7 +30,7 @@ Build and release Swappityswap
    1. - [ ] bsc
    1. - [ ] polygon
 1. - [ ] Integrate with interface and sdk (antron3000, dilipomi, jaygoyanar)
-1. - [ ] Customize token lists (jaygoyanar, violeta)
+1. - [ ] Customize token lists (jaygoyanar, violeta, kenzysc)
 1. - [ ] Test functionality (everyone)
 1. - [ ] Host on app.swappityswap.org (antron3000)
 1. - [ ] Update Website https://swappityswap.org (antron3000, AleRapchan)
