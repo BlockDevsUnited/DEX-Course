@@ -32,7 +32,21 @@ In ```scripts/contracts_info.json```
 - update factory_contract_address with the address of the newly deployed contract
 
 ### Calculate INIT_CODE_PAIR_HASH
-Go back to Remix and switch to the compile Tab.
+
+This section guides you calculating the hash for the pair contract, i.e. INIT_CODE_PAIR_HASH. There are two ways to calculate it.
+
+#### 1. Read the value from the deployed Factory contract
+If you cloned the contract from ```https://github.com/BlockDevsUnited/DEX-Course-u-exchange``` and deployed in Remix, then INIT_CODE_PAIR_HASH is already calculated in the contract. 
+
+Go back to Remix and switch to the Deploy Tab. 
+- Select the Factory contract that you just deployed. 
+- Look at the contract variables that you can read and find INIT_CODE_PAIR_HASH variable (usually, it is the last one).
+- Expand INIT_CODE_PAIR_HASH and copy its value
+- In ```scripts/contracts_info.json``` update init_code_pair_hash with the output from the previous line
+
+#### 2. Calculate the hash using the Pair contract abi
+
+Go back to Remix and switch to the Compile Tab.
 - under the blue button "Compile UExchangeFactory_flat.sol" choose CONTRACT: "UExchangePair(UExchangeFactory_flat.sol)"
 - Then click on "Bytecode" to copy it
 - Open ```scripts/pair_bycode.json``` file and complete replace its contents with the bycode that you copied in the previous step
