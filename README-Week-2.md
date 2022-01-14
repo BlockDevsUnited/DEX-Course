@@ -49,8 +49,8 @@ Go back to Remix and switch to the Deploy Tab.
 Go back to Remix and switch to the Compile Tab.
 - under the blue button "Compile UExchangeFactory_flat.sol" choose CONTRACT: "UExchangePair(UExchangeFactory_flat.sol)"
 - Then click on "Bytecode" to copy it
-- Open ```scripts/pair_bycode.json``` file and complete replace its contents with the bycode that you copied in the previous step
-- Open a terminal and run ```node scripts/get_pair_hash.js```
+- Open ```scripts/pair_bycode.json``` file with a text editor and complete replace its contents with the bycode that you copied in the previous step
+- Open a bash terminal and run ```node scripts/get_pair_hash.js```
 - In ```scripts/contracts_info.json``` update init_code_pair_hash with the output from the previous line
 
 ### Deploy Router Contract
