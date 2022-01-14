@@ -33,9 +33,9 @@ In ```scripts/contracts_info.json```
 
 ### Calculate INIT_CODE_PAIR_HASH
 
-This section guides you calculating the hash for the pair contract, i.e. INIT_CODE_PAIR_HASH. There are two ways to calculate it.
+This section guides you calculating the hash for the pair contract, i.e. INIT_CODE_PAIR_HASH. There are two ways to calculate it. Both ways whould give you the same value.
 
-#### 1. Read the value from the deployed Factory contract
+#### 1. Read the hash value from the deployed Factory contract
 If you cloned the contract from ```https://github.com/BlockDevsUnited/DEX-Course-u-exchange``` and deployed in Remix, then INIT_CODE_PAIR_HASH is already calculated in the contract. 
 
 Go back to Remix and switch to the Deploy Tab. 
