@@ -2,11 +2,11 @@
 
 ## TODO
 These items are still outstanding to figure out
-[ ] 1. Removing liquidity does not work on some DEX-es. We need to find out why.
-[ ] 2. We need token lists for Polygon and Rinkeby.
-[ ] 3. React routing on github pages seems to push the app root to ```/``` instead of ```/dex```. The app works though, just the URL is not correct.
-[ ] 4. Initial loading of the dex is slow. We need a loading indicator on the page to let the user know that the app is loading.
-[ ] 5. Add default token lists to the interface instead of importing them manually after publish
+1. [ ] Removing liquidity does not work on some DEX-es. We need to find out why.
+1. [ ] We need token lists for Polygon and Rinkeby.
+1. [ ] React routing on github pages seems to push the app root to ```/``` instead of ```/dex```. The app works though, just the URL is not correct.
+1. [ ] Initial loading of the dex is slow. We need a loading indicator on the page to let the user know that the app is loading.
+1. [ ] Add default token lists to the interface instead of importing them manually after publish
 
 ## Publish your contracts on mainnet, update sdk and integrate them with the interface
 To complete this follow [README-Week-2.md](README-Week-2.md). You can choose any mainnet for deployment. We tested deploying on polygon and xdai.
