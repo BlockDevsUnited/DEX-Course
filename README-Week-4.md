@@ -65,5 +65,5 @@ To deploy the same dex interface on multiple networks we need to have the same f
 
 The value of WETH that is used for the router contract constructor is different for each network. [Need details]
 
-The interface need to be changed to reflect the supported netwprks. [Need details]
+The interface need to be changed to reflect the supported networks. [Need details]
 
