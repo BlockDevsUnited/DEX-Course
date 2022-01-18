@@ -86,11 +86,14 @@ Here is the course outline, week by week.
 ### Week 3 - Collaborative DEX
 
 #### Requirements
-[TODO-swappityswap.md](TODO-swappityswap.md)
+- Complete as a team the tasks in [TODO-swappityswap.md](TODO-swappityswap.md)
+- Review [Week 3 recording](https://drive.google.com/drive/folders/1-R8xd1Q7K2JD0TcfVp4BzEk-e__PiCKW)
 
 ### Week 4 - Deploy your live DEX
 
 During week 4 you must deploy a real live DEX
+#### Tutorials
+Review [README-Week-4.md](README-Week-4.md) for more details on the steps to publish a real dex.
 
 #### Requirements
 * Demonstrate your live DEX
