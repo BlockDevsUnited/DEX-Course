@@ -58,4 +58,12 @@ Token lists that we used:
 - Polygon: TBA
 - Rinkeby: TBA
 
+## Deploying on Multiple Networks
+
+To deploy the same dex interface on multiple networks we need to have the same factory and router contract addresses on each network. 
+"The address for an Ethereum contract is deterministically computed from the address of its creator (sender) and how many transactions the creator has sent (nonce). The sender and nonce are RLP encoded and then hashed with Keccak-256." One way to achieve this by using a dedicated account for deployment on all networks.
+
+The value of WETH that is used for the router contract constructor is different for each network. [Need details]
+
+The interface need to be changed to reflect the supported netwprks. [Need details]
 
